@@ -816,3 +816,5 @@ Remove all containers
 ```
 docker rm $(docker ps -aq)
 ```
+## Acknowledgements
+[Serve Llama2-7b/70b on a single or multiple Intel Gaudi Accelerator](https://docs.ray.io/en/latest/serve/tutorials/intel-gaudi-inference.html)
